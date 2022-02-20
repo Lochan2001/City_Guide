@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738666588207",
+    "project_id": "city-guide-391d5",
+    "storage_bucket": "city-guide-391d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738666588207:android:bc995e8082b5215aa6beda",
+        "android_client_info": {
+          "package_name": "com.lochanandsons.cityGuide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738666588207-8qa76b6c3t5789i2fhu1u1jqgooprl0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgaiD02NE1IYaMnge40Kxhosf5l3kKf2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738666588207-8qa76b6c3t5789i2fhu1u1jqgooprl0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

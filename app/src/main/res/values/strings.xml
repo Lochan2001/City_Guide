@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">City Guide</string>
+    <string name="logo_name">Get A Way</string>
+    <string name="slogan_name">We will help you to find your way!</string>
+    <string name="powered_by">Powered By Lochan Screen</string>
+
+    <!--Titles-->
+    <string name="first_slide_title">Search Your Location</string>
+    <string name="second_slide_title">Make A Call</string>
+    <string name="third_slide_title">Add Missing Place</string>
+    <string name="fourth_slide_title">Sit Back And Enjoy</string>
+    <!--Descriptions-->
+    <string name="first_slide_desc">You can search any place nearby or with-in the specified city. We will display specific or all related shops to match your search. </string>
+    <string name="second_slide_desc">We provide almost all the numbers of all departments and shops registered with us. You can perform bookings as well.</string>
+    <string name="third_slide_desc">If you have a shop or somethings and want to be a part of our growing industry then add your place by follwing simple steps.</string>
+    <string name="fourth_slide_desc">We will handle everything for you. As you have the app in your pocket then you don\'t have to worry about anything.  </string>
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+
+    <!--    strings for Dashboard-->
+
+    <!--    categories-->
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shops">Shops</string>
+    <string name="banks">Banks</string>
+    <string name="airports">Airports</string>
+    <string name="education">Education </string>
+
+
+    <!--    titles and description-->
+    <string name="featured_locations">All Featured Locations</string>
+    <string name="featured_locations_description">All the locations that are featured and have the top demand in town</string>
+    <string name="most_viewed_locations">Most Viewed</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">view All</string>
+    <string name="search_text">Search...</string>
+
+
+    <!--    Navigation drawer-->
+    <string name="home">HOME</string>
+    <string name="search">SEARCH</string>
+    <string name="all_categories">ALL CATEGORIES</string>
+    <string name="add_missing_place">ADD MISSING PLACE</string>
+
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_username_hint">Username</string>
+
+
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+
+
+    <!--    all categories-->
+
+    <string name="car_rent">Car Rent</string>
+    <string name="expand_all">EXPAND ALL</string>
+    <string name="restaurant">Restaurant</string>
+
+    <!--    Retailer Panel-->
+    <string name="sign_up">Sign Up</string>
+    <string name="retailer_heading">Grow\nYour Business</string>
+    <string name="retailer_tag_line">We will help you to grow your business using online services</string>
+    <string name="create_account">Create\nAccount</string>
+    <string name="how_we_work">How we work?</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget Password</string>
+
+    <!--    userOwnerSelection-->
+    <string name="location_owner">Location Owner</string>
+    <string name="customer">Visitor/Customer</string>
+    <string name="userownertext">We will help you to Reach places And grow your business using online services</string>
+
+    <!--    Login-->
+    <string name="enter_username">Username</string>
+    <string name="enter_password">Password</string>
+
+
+    <!--    Signup-->
+    <string name="enter_full_name">Full Name</string>
+    <string name="enter_email">Email</string>
+    <string name="enter_phone_number">Phone no</string>
+
+
+    <!--    verifyOTP-->
+
+    <string name="todo"></string>
+    <string name="otp_code_text">Co\nde</string>
+    <string name="otp_verification_text">Verification</string>
+    <string name="otp_description_text">Enter one time password send on\n+919325621491</string>
+    <string name="verify_code">Verify</string>
+
+
+    <string name="forget_password_detail">Provide your accounts email for which you want to reset your password</string>
+    <string name="make_selection">MAKE\nSELECTION</string>
+    <string name="via_sms">via sms</string>
+    <string name="via_mail">via mail</string>
+    <string name="make_selection_detail">Select which contact detail should we use to reset your password</string>
+
+    <string name="new_credentials_detail">Your identity has been verified!\nSet your new password</string>
+    <string name="new_credentials">New\nCredentials</string>
+
+    <string name="password_updated">password\nupdated</string>
+    <string name="password_updated_success_message">your password has been updated!</string>
+
+
+    <!--    owner dashboard-->
+
+    <string name="owner_dashboard_desc">Select your Buiseness Category From Below listed Categories</string>
+</resources>

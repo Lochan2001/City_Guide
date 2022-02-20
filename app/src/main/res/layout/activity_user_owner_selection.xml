@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Common.LoginSignup.UserOwnerSelection"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/logocity" />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/muli_light"
+            android:layout_marginTop="150dp"
+            android:text="@string/userownertext"
+            android:textAlignment="center"
+            android:textSize="19sp"
+            android:textColor="@color/black" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="90dp">
+
+
+            <Button
+                android:id="@+id/login_btn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_weight="1"
+                android:onClick="callCustomerstartupScreen"
+                android:background="@color/colorPrimary"
+                android:text="@string/customer"
+                android:textColor="@color/black"
+                android:transitionName="transition_login"/>
+
+            <Button
+                android:id="@+id/signup_btn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="1"
+                android:onClick="callLocationOwnerStartupScreen"
+                android:background="@color/colorPrimary"
+                android:text="@string/location_owner"
+                android:textColor="@color/black"
+                android:transitionName="transition_signup"
+                />
+        </LinearLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/how_we_work"
+            android:textColor="@color/black"
+            android:layout_weight="1"
+            android:onClick="callworkinformation"
+            android:background="#00000000"
+            android:layout_marginTop="20dp"/>
+    </LinearLayout>
+</ScrollView>
